@@ -16,7 +16,7 @@ Te recomienda cosas.
 
 1.- Abrir el [Portal Azure](azure.portal.com)
 
-1[Portal Azure](Imagenes/PortalAzure.PNG)
+![Portal Azure](Imagenes/PortalAzure.PNG)
 
 2.- Buscamos Advisor.
 
